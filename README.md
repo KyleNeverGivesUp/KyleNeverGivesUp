@@ -2,7 +2,7 @@
 - 👀 I’m interested in CS & AI/ML
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on AI-driven projects
-- 📫 How to reach me Kylelovescoding@gmail.com
+- 📫 How to reach me kylelovescoding@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
