@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KyleNeverGivesUp
 - 👀 I’m interested in CS & AI/ML
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science@UCSD
 - 💞️ I’m looking to collaborate on AI-driven projects
 - 📫 How to reach me kylelovescoding@gmail.com
 - 😄 Pronouns: ...
