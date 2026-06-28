@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @KyleNeverGivesUp
-- 👀 I’m interested in CS & AI/ML
-- 🌱 I’m currently learning Computer Science@UCSD
-- 💞️ I’m looking to collaborate on AI-driven projects
-- 📫 How to reach me kylelovescoding@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-KyleNeverGivesUp/KyleNeverGivesUp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @KyleNeverGivesUp (Kyle / Shunjie Hu)
+- 🎓 CS undergrad @ UC San Diego, graduating 2027
+- 🔬 Research across two ML directions:
+  - **ML systems**
+  - **LLM agents for science**
+- 🌱 Currently going deep on CUDA, LLM inference optimization, and multi-agent system design
+- 💞️ Looking to collaborate on AI/ML systems & open-source projects
+- 📫 Reach me: kylelovescoding@gmail.com
+- ⚡ Fun fact: I play tennis and airsoft, and I shoot astrophotography when the sky's clear
