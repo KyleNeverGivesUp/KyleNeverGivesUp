@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @KyleNeverGivesUp (Kyle / Shunjie Hu)
+- 👋 Hi, I'm @KyleNeverGivesUp (Kyle)
 - 🎓 CS undergrad @ UC San Diego, graduating 2027
 - 🔬 Research across two ML directions:
   - **ML systems**
