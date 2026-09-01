@@ -2,7 +2,7 @@
 - 🎓 CS undergrad @ UC San Diego, graduating 2027
 - 🔬 Research across two ML directions:
   - **ML systems**
-  - **LLM agents for science**
+  - **AI agents**
 - 🌱 Currently going deep on CUDA, LLM inference optimization, and multi-agent system design
 - 💞️ Looking to collaborate on AI/ML systems & open-source projects
 - 📫 Reach me: kylelovescoding@gmail.com
